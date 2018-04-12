@@ -1,7 +1,5 @@
 # 中国远程工作者周刊
 
-> 本项目是从 [remote-working](https://github.com/greatghoul/remote-working) 中分离出来的，**周刊目前处于停更的状态**，本项目仅作存档之用。
-
 [欢迎订阅](http://eepurl.com/9S3hf)
 
 - [中国远程工作者周刊 第29期](weekly/issue-29.md)
