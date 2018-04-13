@@ -26,3 +26,7 @@ Android 应用测试, 自动化测试，1年以上经验，薪资面议，按月
 
 前后端分离，AngularJS, 最好在上海、苏州或者大连，薪资 8K 以下。
 
+[九寨沟悦榕庄招聘销售经理](https://mp.weixin.qq.com/s/s26pxXiIemQn-t7SA1Unew)
+
+销售，工资面议，优秀的英语技能，3年以上经验
+
