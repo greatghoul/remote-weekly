@@ -1,32 +1,25 @@
 # 远程工作者周刊 第 30 期
 
-## 阅读 >
+## 阅读
 
-[在家工作？大所将拥抱远程工作模式？](https://mp.weixin.qq.com/s/CMmpTUOVpZIQ5n21H_tPDA)
+[在家工作？大所将拥抱远程工作模式？](https://mp.weixin.qq.com/s/CMmpTUOVpZIQ5n21H_tPDA)  
+远程工作不只局限于 IT 行业，现在有一些律师也开始远程工作，支持远程工作，尤其对年轻人更有吸引力，甚至有一部分人愿意牺牲一些经济收入。不过远程工作仍然面临着一些需要解决的问题，比如安全和效率，并不是所有员工都能注重安全和自我驱动，这需要刻意的练习。
 
-远程工作不只局限于 IT 行业，现在有一些律师也开始远程工作，支持远程工作，尤其对年轻人更有吸引力，甚至有一部分人愿意牺牲一些经济收入。不过远程工作仍然面临着一些需要解决的问题，比如安全和效率，并不是所有员工都能注重安全和自我驱动，这需要房间的练习。
+[远程办公:隔离工作是怎样的感受?](https://mp.weixin.qq.com/s/tTLtwUtarwesClJy_7Pj6w)  
+这是一篇以反对声音为主的文章，远程工作缺乏面对面交流会导致员工缺乏团队意识、追踪远程职员的工作效率会提高管理成本、非面对面的沟通不能描述复杂的需求、员工可能在偷懒或者忙工作之外的事情、工作生活界限模糊，员工可能需要随时待命。作者表达了对「管理那些不胜任远程工作模式的员工」的担忧。
 
-[远程办公:隔离工作是怎样的感受?](https://mp.weixin.qq.com/s/tTLtwUtarwesClJy_7Pj6w)
-
-这是一篇以反对声音为主的文章，远程工作缺乏面对面交流会导致员工缺乏团队意识、追踪远程职员的工作效率会提高管理成本、非面对面的沟通不能描述复杂的需求、员工可能在偷懒或者忙工作之外的事情、工作生活界限模糊，员工可能需要随时待命。作者表达了「管理那些不胜任远程工作模式的员工」的担忧。
-
-[远程工作6年(1)](https://mp.weixin.qq.com/s/6deaFTuzTF7eRwW0X5yxRA)
-
+[远程工作6年(1)](https://mp.weixin.qq.com/s/6deaFTuzTF7eRwW0X5yxRA)  
 由的人远程工作是出于对自由的诉求，但也一些人，开始远程工作可能只是形势使然。工作或者生活的处境让你不得不考虑从事远程工作。但无论出于哪种形式，远程都能让我们受益。
 
 ---
 
-## 招聘 >
+## 招聘
 
-[Android 视频应用团队招聘兼职移动端测试工程师](https://mp.weixin.qq.com/s/z4T-YJQYIS4f6USqlbiRIA)
-
+[Android 视频应用团队招聘兼职移动端测试工程师](https://mp.weixin.qq.com/s/z4T-YJQYIS4f6USqlbiRIA)  
 Android 应用测试, 自动化测试，1年以上经验，薪资面议，按月支付。
 
-[找前端一枚，熟悉AngularJS](http://yizaoyiwan.com/discussions/1661)
-
+[找前端一枚，熟悉AngularJS](http://yizaoyiwan.com/discussions/1661)  
 前后端分离，AngularJS, 最好在上海、苏州或者大连，薪资 8K 以下。
 
-[九寨沟悦榕庄招聘销售经理](https://mp.weixin.qq.com/s/s26pxXiIemQn-t7SA1Unew)
-
+[九寨沟悦榕庄招聘销售经理](https://mp.weixin.qq.com/s/s26pxXiIemQn-t7SA1Unew)  
 销售，工资面议，优秀的英语技能，3年以上经验
-
