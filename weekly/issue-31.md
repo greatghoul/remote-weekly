@@ -19,7 +19,7 @@
 
 [招聘] [Integem 招聘 NODEJS 后端工程师](http://mp.weixin.qq.com/s?__biz=MzIyMDc3NDI5Mg==&mid=2247483816&idx=1&sn=65bb2cbe6b0e6189a85f2e55111e4353&chksm=97c7ab53a0b0224503cdcb3bd34cec11889ad14d7ffed5dfa4eb9ddec2f89bbc667729861ef5&scene=21#wechat_redirect)  
 Integem 是一家总部在美国硅谷的创业公司，专注于打造新一代现实增强平台。目前他们正在招聘 NodeJS 后端工程师。  
-关键字：NodeJS, Vue, Docker, 12K-25K
+关键字：NodeJS, Vue, Docker, 15K-25K
 
 [招聘] [悦视光合科技（大连）招聘开发、产品和设计人员](http://mp.weixin.qq.com/s?__biz=MzIyMDc3NDI5Mg==&mid=2247483813&idx=1&sn=f0fa418b481c59b6df69b8df0ba533e7&chksm=97c7ab5ea0b02248b05eaf71c4c4a6ed14194cd636a0ad4dc24fcc5aa3e13e3eaf7f6692a146&scene=21#wechat_redirect)  
 悦视光合科技（大连）有限公司是一家专注于企业人力资源管理软件云服务的公司，他们目前在招聘开发、设计产品等职位。  
