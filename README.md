@@ -6,7 +6,7 @@
 
 ----
 
-- [中国远程工作者周刊 第30期](weekly/issue-31.md)
+- [中国远程工作者周刊 第31期](weekly/issue-31.md)
 - [中国远程工作者周刊 第30期](weekly/issue-30.md)
 - [中国远程工作者周刊 第29期](weekly/issue-29.md)
 - [中国远程工作者周刊 第27期](weekly/issue-27.md)
