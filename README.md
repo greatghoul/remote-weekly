@@ -2,8 +2,9 @@
   <img src="https://github.com/greatghoul/remote-working/blob/master/assets/qrcode-wechat.jpg?raw=true" alt="" width="96" height="96">
   <h3 align="center">中国远程工作者周刊</h3>
 </p>
-
 <p align="center">搜索微信公众号 `remote-cn`，或者扫码关注</p>
+
+----
 
 - [中国远程工作者周刊 第30期](weekly/issue-31.md)
 - [中国远程工作者周刊 第30期](weekly/issue-30.md)
