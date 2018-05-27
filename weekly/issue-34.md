@@ -26,4 +26,4 @@ Cocos Creator, 棋牌游戏, 8K-12K
 Vue/React/Angular，小程序，小游戏，配备MBP，20K-25K  
 
 [[远程工作] vlog 20 海文老湿工作室招聘啦](https://www.bilibili.com/video/av23589374/)  
-海外见红本地化，视频剪辑
+海外网红本地化，视频剪辑
