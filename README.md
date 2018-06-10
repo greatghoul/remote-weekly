@@ -31,6 +31,7 @@
 - [远程工作者周刊 第13期](weekly/issue-13.md)
 - [远程工作者周刊 第12期](weekly/issue-12.md)
 - [远程工作者周刊 第11期](weekly/issue-11.md)
+- [远程工作者周刊 第06期](weekly/issue-06.md)
 - [远程工作者周刊 第05期](weekly/issue-05.md)
 - [远程工作者周刊 第04期](weekly/issue-04.md)
 - [远程工作者周刊 第03期](weekly/issue-03.md)
