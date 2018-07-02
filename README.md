@@ -6,6 +6,8 @@
 
 ----
 
+- [远程工作者周刊 第39期](weekly/issue-39.md)
+- [远程工作者周刊 第38期](weekly/issue-38.md)
 - [远程工作者周刊 第37期](weekly/issue-37.md)
 - [远程工作者周刊 第36期](weekly/issue-36.md)
 - [远程工作者周刊 第35期](weekly/issue-35.md)
