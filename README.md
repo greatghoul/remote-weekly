@@ -8,6 +8,7 @@
 - [远程工作者周刊 第47期](posts/remote-weekly-47.md)
 - [远程工作者周刊 第46期](posts/remote-weekly-46.md)
 - [远程工作者周刊 第45期](posts/remote-weekly-45.md)
+- [远程工作者周刊 第44期](posts/remote-weekly-44.md)
 - [远程工作者周刊 第39期](posts/remote-weekly-39.md)
 - [远程工作者周刊 第38期](posts/remote-weekly-38.md)
 - [远程工作者周刊 第37期](posts/remote-weekly-37.md)
