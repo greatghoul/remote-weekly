@@ -4,6 +4,7 @@
     <a href="https://remote-china.com/">远程工作者周刊</a>
 </h1>
 
+- [远程工作者周刊 第52期](posts/remote-weekly-52.md)
 - [远程工作者周刊 第51期](posts/remote-weekly-51.md)
 - [远程工作者周刊 第50期](posts/remote-weekly-50.md)
 - [远程工作者周刊 第49期](posts/remote-weekly-49.md)
